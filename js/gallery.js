@@ -105,7 +105,6 @@ function onClickUl(e) {
 
   instance.show();
 
-  // додаємо слухач
   window.addEventListener("keydown", onEscape);
 }
 
